@@ -1,3 +1,3 @@
 # RISE-UP
-Game
-a mobile game Rise Up using Unity game engine.
+Game-
+This is a mobile game using Unity game engine.
